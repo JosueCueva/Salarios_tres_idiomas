@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>Recursos/salario.png</file>
+        <file>Recursos/acerca-de.png</file>
+        <file>Recursos/agregar-archivo.png</file>
+        <file>Recursos/boton-abrir-archivo.png</file>
+        <file>Recursos/boton-de-informacion.png</file>
+        <file>Recursos/cerrar-sesion.png</file>
+        <file>Recursos/guardar-el-archivo.png</file>
+        <file>Recursos/hoja-de-balance.png</file>
+        <file>Recursos/salario (1).png</file>
+    </qresource>
+</RCC>

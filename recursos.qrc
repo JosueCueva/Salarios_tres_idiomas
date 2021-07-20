@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Idiomas">
+        <file>SalarioIdiomas_en_US.qm</file>
+        <file>SalarioIdiomas_es_EC.qm</file>
+        <file>SalarioIdiomas_zh_HK.qm</file>
+    </qresource>
+</RCC>
